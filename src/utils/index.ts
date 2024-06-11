@@ -1,0 +1,1 @@
+export {useGlobalResizeProvide} from './customCompositionApi'
